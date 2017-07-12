@@ -10,12 +10,10 @@ backgroud-color:gray;
   margin-left: auto;
   margin-right: auto;
 
-  -moz-animation-name:colorr;
-  -moz-animation-duration: 4s;
-  moz-animation:colorr 4s infinite;
+  
+  -moz-animation:colorr 4s infinite;
   animation:colorr 4s infinite;
-  animation-name:colorr;
-  animation-duration: 4s;
+
  
 }
 @-moz-keyframes colorr{
