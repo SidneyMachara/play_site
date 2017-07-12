@@ -19,8 +19,12 @@ backgroud-color:gray;
  
 }
 @-moz-keyframes colorr{
-  from {background-color:red;}
-  to {background-color:black;}
+   0% {background-color:red;}
+  20% {background-color:black;}
+  50% {background-color:red;}
+  75% {background-color:black;}
+  100% {background-color:red;}
+  
   
 }
   
