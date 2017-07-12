@@ -9,8 +9,7 @@ backgroud-color:gray;
   background-color: red;
   margin-left: auto;
   margin-right: auto;
-  -webkit-animation-name:colorr;
-  -webkit-animation-duration: 4s;
+
   -moz-animation-name:colorr;
   -moz-animation-duration: 4s;
   animation-name:colorr;
