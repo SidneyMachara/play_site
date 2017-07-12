@@ -1,5 +1,5 @@
 body{
-background-color:gray;
+backgroud-color:gray;
 }
 .one{
   border: 1px solid black;
@@ -9,9 +9,16 @@ background-color:gray;
   background-color: red;
   margin-left: auto;
   margin-right: auto;
-
+  animation-name:colorr;
 }
-
+@keyframes colorr{
+  0% {background-color:red;}
+  20% {background-color:black;}
+  50% {background-color:red;}
+  75% {background-color:black;}
+  100% {background-color:red;}
+}
+  
 .two{
   border: 1px solid black;
   border-radius: 50%;
@@ -55,3 +62,4 @@ background-color:gray;
   margin-right: auto;
 
 }
+
