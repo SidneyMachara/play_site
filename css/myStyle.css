@@ -18,11 +18,14 @@ backgroud-color:gray;
 }
 @-moz-keyframes colorr{
   0% {background-color:red;}
-  20% {background-color:black;}
+  25% {background-color:black;}
   50% {background-color:red;}
   75% {background-color:black;}
   100% {background-color:red;}
-  -100% {background-color:green;}
+  75% {background-color:black;}
+  50% {background-color:red;}
+  25% {background-color:green;}
+  0% {background-color:green;}
   
 }
   
