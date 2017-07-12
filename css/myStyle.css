@@ -12,8 +12,8 @@ backgroud-color:gray;
   -moz-animation-name:colorr;
   -moz-animation-duration: 4s;
   animation-name:colorr;
-  animation-duration:colorr 4s ;
-  -moz-animation-iteration-count: infinite;
+  animation-duration: 4s;
+ 
 }
 @-moz-keyframes colorr{
   0% {background-color:red;}
@@ -21,6 +21,7 @@ backgroud-color:gray;
   50% {background-color:red;}
   75% {background-color:black;}
   100% {background-color:red;}
+  -100% {background-color:green;}
   
 }
   
