@@ -119,7 +119,7 @@ backgroud-color:gray;
   background-color: blue;
   margin-left: auto;
   margin-right: auto;
- margin-top:200px;
+ 
 }
 
 .threet{
@@ -130,7 +130,7 @@ backgroud-color:gray;
   background-color: pink;
   margin-left: auto;
   margin-right: auto;
-margin-top:200px;
+
 }
 
 .fourt{
@@ -141,7 +141,7 @@ margin-top:200px;
   background-color: gray;
   margin-left: auto;
   margin-right: auto;
-margin-top:200px;
+
 }
 
 .fivet{
@@ -152,7 +152,7 @@ margin-top:200px;
   background-color: maroon;
   margin-left: auto;
   margin-right: auto;
-  margin-top:200px;
+  
    -moz-animation:inner 4s infinite;
   animation:inner 4s infinite;
 
