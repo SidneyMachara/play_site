@@ -11,9 +11,9 @@ backgroud-color:gray;
   margin-right: auto;
 
   -moz-animation-name:colorr;
-  -moz-animation-duration: 4s infinite;
+  -moz-animation-duration: 4s;
   animation-name:colorr;
-  animation-duration: 4s infinite;
+  animation-duration: 4s;
  
 }
 @-moz-keyframes colorr{
