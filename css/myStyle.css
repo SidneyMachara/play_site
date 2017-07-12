@@ -67,6 +67,19 @@ backgroud-color:gray;
   background-color: maroon;
   margin-left: auto;
   margin-right: auto;
+  
+   -moz-animation:inner 4s infinite;
+  animation:inner 4s infinite;
 
+}
+
+@-moz-keyframes inner{
+   0% {background-color:maroon;}
+  20% {background-color:white;}
+  50% {background-color:maroon;}
+  75% {background-color:white;}
+  100% {background-color:maroon;}
+  
+  
 }
 
