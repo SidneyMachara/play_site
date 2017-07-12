@@ -10,6 +10,7 @@ backgroud-color:gray;
   margin-left: auto;
   margin-right: auto;
   animation-name:colorr;
+  animation-duration: 4s;
 }
 @keyframes colorr{
   0% {background-color:red;}
